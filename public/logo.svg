@@ -1,0 +1,21 @@
+<svg width="120" height="60" viewBox="0 0 120 60" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        .logo-text {
+            font-family: 'Arial', sans-serif;
+            font-size: 28px;
+            font-weight: bold;
+            fill: #f56551;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+        }
+        .icon {
+            fill: #f56551;
+        }
+    </style>
+    
+    <!-- Travel Icon (Globe) -->
+    <circle cx="25" cy="30" r="12" class="icon" />
+    <path d="M25 18 A12 12 0 0 1 37 30 A12 12 0 0 1 25 42 A12 12 0 0 1 13 30 A12 12 0 0 1 25 18 Z" stroke="#FFFFFF" stroke-width="1.5" fill="none" />
+    
+    <!-- ATG Text -->
+    <text x="50" y="40" class="logo-text">ATG</text>
+</svg>
