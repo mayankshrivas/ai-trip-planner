@@ -1,12 +1,43 @@
-# React + Vite
+# AI Travel Guide
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive AI-powered travel guide web app built with React and Vite. Get personalized recommendations for destinations, hotels, restaurants, and activities—powered by cutting-edge AI and a sleek, responsive UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Features
 
-## Expanding the ESLint configuration
+- **AI-Powered Recommendations**  
+  Generate tailored travel suggestions (destinations, hotels, itinerary) based on user preferences and budget.
+- **Interactive Map**  
+  Browse places and attractions on an embedded map view.
+- **Detailed Itineraries**  
+  Auto-generate day-by-day trip plans.
+- **Search & Filters**  
+  Quickly find points of interest by type, price range, rating, and more.
+- **Favorites & Bookmarks**  
+  Save your favorite spots to revisit later.
+- **Responsive Design**  
+  Mobile-first and fully responsive across devices.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🎨 Tech Stack
+
+- **Frontend:**  
+  - [React](https://reactjs.org/)  
+  - [Vite](https://vitejs.dev/)  
+  - [Tailwind CSS](https://tailwindcss.com/)
+  - [shadcn.ui](https://ui.shadcn.com/)(for component)
+- **AI Integration:**  
+  - Gemini AI 
+- **Backend (optional):**  
+  - Node.js 
+  - Firebase  
+
+
+## 🔧 Installation
+  - npm install 
+1. **Clone the repo**  
+   ```bash
+   git clone https://github.com/mayankshrivas/ai-travel-guide.git
+   cd ai-travel-guide
